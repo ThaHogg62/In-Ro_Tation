@@ -1,0 +1,5 @@
+{
+  "name": "In Rotation",
+  "description": "A sleek, modern video platform interface similar to YouTube, built with React and Tailwind CSS. It features a dynamic video grid, a detailed watch page, and an AI-powered video summarization feature using the Gemini API.",
+  "requestFramePermissions": []
+}
